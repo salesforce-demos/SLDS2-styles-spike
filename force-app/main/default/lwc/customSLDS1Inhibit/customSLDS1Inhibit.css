@@ -1,0 +1,4 @@
+.slds-button,
+.slds-input {
+    all: unset; /* Resets all inherited and non-inherited properties back to their defaults */
+}
